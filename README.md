@@ -1,9 +1,9 @@
 # Example Self WhatsApp BOT  
 
-<a href="https://github.com/zhwzein"><img title="Author" src="https://img.shields.io/badge/Author-Zhwzein-red.svg?style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/zhwzein/ExampleSelep"><img title="Stars" src="https://img.shields.io/github/stars/zhwzein/ExampleSelep?color=yellow&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/ExampleSelep/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zhwzein/ExampleSelep?color=green&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/ExampleSelep/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zhwzein/ExampleSelep?label=watchers&color=blue&style=flat-square" /></a> <br>
+<a href="https://github.com/Rhishnaa"><img title="Author" src="https://img.shields.io/badge/Author-RHISHNA-red.svg?style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/Rhishnaa/GithubBot"><img title="Stars" src="https://img.shields.io/github/stars/Rhishnaa/GithuBot?color=yellow&style=flat-square" /></a>
+<a href="https://github.com/Rhishnaa/GithubBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Rhishnaa/GithubBot?color=green&style=flat-square" /></a>
+<a href="https://github.com/Rhishnaa/GithubBot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Rhishnaa/GithubBot?label=watchers&color=blue&style=flat-square" /></a> <br>
 
 ---
 
@@ -19,8 +19,8 @@
 <details><summary><b>Installation</b></summary><br>
   
 ```bash
-> git clone https://github.com/zhwzein/ExampleSelep
-> cd ExampleSelep
+> git clone https://github.com/Rhishnaa/GithubBot
+> cd GithubBot
 > npm install
 ```
 </details>
