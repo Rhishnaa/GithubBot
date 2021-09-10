@@ -1,4 +1,4 @@
-# Example Self WhatsApp BOT  
+# I'M RHISHNA  <img src="https://media.tenor.com/images/9e294084b51c743b04ec4c8061523adb/tenor.gif" width="250"> XII TAV
 
 <a href="https://github.com/Rhishnaa"><img title="Author" src="https://img.shields.io/badge/Author-RHISHNA-red.svg?style=for-the-badge&logo=github" /></a>  
 <a href="https://github.com/Rhishnaa/GithubBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Rhishnaa/GithubBot?color=green&style=flat-square" /></a>
