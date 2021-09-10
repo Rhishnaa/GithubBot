@@ -1,8 +1,8 @@
 /*
  
- Example Simple WhatsApp BOT
- Source https://github.com/zhwzein/ExampleSelep
- By zen's
+ GithubBot
+ Source https://github.com/Rhishnaa/GithubBot
+ By Rhiss
 
 */
 
