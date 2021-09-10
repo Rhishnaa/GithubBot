@@ -1,5 +1,8 @@
+---
 # I'M RHISHNA  <img src="https://media.tenor.com/images/9e294084b51c743b04ec4c8061523adb/tenor.gif" width="250"> XII TAV
-
+---
+# Jangan Dibully Oum Masih Awalan Jadi Mohon Dimaklumi Kalau Fiturnya Masih Dikit🙂
+---
 <a href="https://github.com/Rhishnaa"><img title="Author" src="https://img.shields.io/badge/Author-RHISHNA-red.svg?style=for-the-badge&logo=github" /></a>  
 <a href="https://github.com/Rhishnaa/GithubBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Rhishnaa/GithubBot?color=green&style=flat-square" /></a>
 <a href="https://github.com/Rhishnaa/GithubBot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Rhishnaa/GithubBot?label=watchers&color=blue&style=flat-square" /></a> <br>
