@@ -1,5 +1,5 @@
 {
-  "name": "ExampleSelep",
+  "name": "GithubBot",
   "version": "1.0.1",
   "description": "Example simple self BOT with Button command & Sticker command",
   "main": "index.js",
@@ -7,15 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "zhwzein",
+  "author": "Rhishna",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhwzein/ExampleSelep.git"
+    "url": "https://github.com/Rhishnaa/GithubBot.git"
   },
   "bugs": {
-    "url": "https://github.com/zhwzein/ExampleSelep/issues"
+    "url": "https://github.com/Rhishnaa/GithubBot/issues"
   },
-  "homepage": "https://github.com/zhwzein/ExampleSelep",
+  "homepage": "https://github.com/Rhishnaa/GithubBot",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
